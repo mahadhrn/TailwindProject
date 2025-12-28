@@ -1,6 +1,8 @@
-# Tailwind Landing Page
+# ToDesktop - Transform Web Apps to Desktop
 
-A modern, responsive landing page built with **Tailwind CSS** showcasing beginner web development skills.
+![cover](assets/cover.png)
+
+A modern, responsive landing page built with **Tailwind CSS** showcasing Frontend skills.
 
 ## 🚀 Features
 
@@ -34,30 +36,5 @@ npm install
 npm run build
 ```
 
-4. Open `index.html` in your browser
-
-## 🎨 Development
-
-- **Watch mode** (auto-rebuild on changes):
-  ```bash
-  npm run build
-  ```
-
-- **Production build** (minified):
-  ```bash
-  npm run build:prod
-  ```
-
-## 📝 Skills Demonstrated
-
-- HTML structure and semantic elements
-- Tailwind CSS utility classes
-- Responsive design principles
-- JavaScript DOM manipulation
-- Mobile navigation menu implementation
-- CSS custom properties and configuration
-
-## 📄 License
-
-ISC
+4. Open `index.html` in your browser.
 
