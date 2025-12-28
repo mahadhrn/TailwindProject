@@ -1,8 +1,8 @@
 # ToDesktop - Transform Web Apps to Desktop
+A modern, responsive landing page built with **Tailwind CSS** showcasing Frontend skills.
 
 ![cover](assets/cover.png)
 
-A modern, responsive landing page built with **Tailwind CSS** showcasing Frontend skills.
 
 ## 🚀 Features
 
